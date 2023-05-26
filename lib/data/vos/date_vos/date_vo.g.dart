@@ -7,11 +7,11 @@ part of 'date_vo.dart';
 // **************************************************************************
 
 DatesVO _$DatesVOFromJson(Map<String, dynamic> json) => DatesVO(
-      json['maximum'] as String?,
-      json['minimum'] as String?,
-    );
+  json['maximum'] as String?,
+  json['minimum'] as String?,
+);
 
 Map<String, dynamic> _$DatesVOToJson(DatesVO instance) => <String, dynamic>{
-      'maximum': instance.maximum,
-      'minimum': instance.minimum,
-    };
+  'maximum': instance.maximum,
+  'minimum': instance.minimum,
+};
