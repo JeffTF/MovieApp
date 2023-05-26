@@ -1,0 +1,1 @@
+const String kPlaceHolderImg = 'Images/tmdb_place_holder.png' ;
