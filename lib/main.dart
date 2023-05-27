@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget{
   @override
   Widget build(BuildContext context){
     return const MaterialApp(
-      title: "My App",
+      title: "My App KKM",
       debugShowCheckedModeBanner: false,
       home: MainScreen(),
       //home: SecondPage(),
